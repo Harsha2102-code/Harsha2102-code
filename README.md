@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-Hi, This is Harsha Sravani ,Currently pursuing 4th CS undergraduation. 
-Have great interest in Machine learning, Problem solving.
-I'm currently improving myself in competative coding.
+Hi, This is Harsha Sravani ,pursued undergraduation in CSE stream 
+I'm currently focussing on increasing my skills to pursue my dreams in Tech industry
 
 <!--
 **Harsha2102-code/Harsha2102-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
